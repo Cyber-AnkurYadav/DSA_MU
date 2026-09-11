@@ -2,22 +2,19 @@
 using namespace std;
 
 
-void swap(int a, int b){
-
-    a = &b;
-    cout<<a;
-    b = a;
-    cout<<b;
-    //return 0;
+void swapNumber(int &a, int &b){
+    int temp = a;
+    a = b;
+    b = temp;
 
 }
 
 int main(){
-    int a=10;
-    int b = 20;
-
-    swap(a, b);
-
+    int a=29;
+    int b = 45;
+    cout<< "Original A is "<< a << " And B is "<< b<<endl;
+    swapNumber(a,b);
+    cout<< "After Swap Variables using pointer A is: " << a << " And B is: " << b;
 
     return 0;
 }
