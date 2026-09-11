@@ -1,0 +1,128 @@
+================================================================================
+                            OPERATORS IN PROGRAMMING
+================================================================================
+
+Definition:
+-----------
+Operators are special symbols used to perform mathematical, logical, and 
+relational operations between operands (values or variables).
+
+================================================================================
+                         ARITHMETIC OPERATORS
+================================================================================
+
+Arithmetic operators are used to perform basic mathematical calculations:
+
+1. ADDITION (+)
+   - Purpose: Performs the sum of two operands
+   - Example: a + b = sum of a and b
+   - Use Case: Calculating totals, accumulating values
+
+2. SUBTRACTION (-)
+   - Purpose: Performs subtraction between two operands
+   - Example: a - b = difference of a and b
+   - Use Case: Finding difference, decrementing values
+
+3. MULTIPLICATION (*)
+   - Purpose: Finds the product of two operands
+   - Example: a * b = product of a and b
+   - Use Case: Scaling values, area calculations
+
+4. DIVISION (/)
+   - Purpose: Divides the first operand by the second, gives quotient
+   - Example: a / b = quotient of a divided by b
+   - Use Case: Splitting values, ratios
+
+5. MODULUS (%)
+   - Purpose: Returns the remainder after division
+   - Example: a % b = remainder when a is divided by b
+   - Use Case: Checking even/odd, cycling through values
+
+===============================================================================
+
+
+
+Assignment Operators --> Assigning the values right to left way
+                         Storing the values in memory
+                    1. =
+                    2. <=
+                    3. >=
+                    4. +=
+                    5. -=
+                    6. *=
+                    7. /=
+
+Comparisoin Operators (Relational Operators)--> campare the two operand and only result in binary form either true(1) or False(0)
+                    1. ==
+                    2. !=
+                    3. <
+                    4. >
+
+Logical Operators ------> 
+                    1. And --> &&
+                    2. OR  --> ||
+                    3. NOT --> !
+                    4. XOR --> ^
+    
+
+Increament / Decreament Operators --> 
+
+
+
+
+
+
+                LOOPS --> There are 3 types of Loops 1. for,    2. While,   3. do While
+
+
+
+
+
+                Functions --> functions is a block of code which is reusable and which perform 
+                  1. Function declaration
+                  2. Function Definition
+                  3. Function Calling 
+
+               Syntax -->  return_type function_name (){
+                  //Statements
+               }
+
+
+                     Types of Functions
+         1. No Parameters, No return Functions 
+               void greet(
+
+
+               )
+         2. Parameters, no return Functions
+               void greet(string name ){
+                  cout << "Welcome" << name;
+               }
+         
+         3. Parameter, return function
+               int add(int a, int b){
+                  return a+b;
+               }
+
+         4. no Parameter, return function
+               bool get status(){
+                  return true;
+               }
+               
+
+
+
+               Complexity --> Complexity is depends on Input size.
+         
+      1. Time Complexity:--> no of operations grows as input size increses.
+
+            a. O(1) -> Constant:input increase but work still same 
+            b. O(logn)
+            c. O(n) -> Linear Complexity
+            d. O(nlogn)
+            e. O(n^2)
+            f. O(n^3)
+            g. O(2^n)
+            h. O(n!)
+
+      2. Space Complexity:-->Extra memory to use that program 
