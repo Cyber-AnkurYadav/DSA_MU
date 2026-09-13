@@ -1,17 +1,20 @@
 #include <iostream>
+#include <vector>
 using namespace std;
 
-int main() {
-    // --- 1. Basic Grid Iteration (For Loop) ---
+// --- 1. Function: Grid Iteration (For Loop) ---
+void gridIterationFor() {
     cout << "=== For Loop ===" << endl;
     for (int row = 1; row <= 3; row++) {
-        for (int col = 1; col <= 4; col++) { // Column limit 4 karna chahiye tha
+        for (int col = 1; col <= 4; col++) {
             cout << "Row: " << row << ", Column: " << col << ", Sum: " << row + col << endl;
         }
     }
+}
 
-    cout << endl << endl << "=== While Loop ===" << endl << endl;
-    // --- 2. While Loop ---
+// --- 2. Function: Grid Iteration (While Loop) ---
+void gridIterationWhile() {
+    cout << "\n=== While Loop ===" << endl;
     int row = 1;
     while (row <= 3) {
         int col = 1;
@@ -21,76 +24,102 @@ int main() {
         }
         row++;
     }
+}
 
-    cout << endl << endl << "=== Do-While Loop ===" << endl << endl;
-    // --- 3. Do-While Loop (Fixed Scope & Syntax) ---
-    row = 1; // Initialize outside
+// --- 3. Function: Grid Iteration (Do-While Loop) ---
+void gridIterationDoWhile() {
+    cout << "\n=== Do-While Loop ===" << endl;
+    int row = 1;
     do {
-        int col = 1; // Initialize inside or outside, but logic must be correct
+        int col = 1;
         do {
             cout << "Row: " << row << ", Column: " << col << ", Sum: " << row + col << endl;
             col++;
         } while (col <= 4);
         row++;
-    } while (row <= 3); // ✅ Condition yahan hai aur semicolon end mein
+    } while (row <= 3);
+}
 
-    cout << endl << endl << "=== Right-Angled Triangle ===" << endl;
-    // --- 4. Triangle Pattern ---
-    for (int i = 1; i <= 5; i++) {
+// --- 4. Function: Right-Angled Triangle ---
+void printTriangle(int n) {
+    cout << "\n=== Right-Angled Triangle (Size: " << n << ") ===" << endl;
+    for (int i = 1; i <= n; i++) {
         for (int j = 1; j <= i; j++) {
             cout << "*";
         }
         cout << endl;
     }
+}
 
-    // --- 5. Matrix Multiplication (Variables Declare & Logic) ---
-    cout << endl << "=== Matrix Multiplication ===" << endl;
-    int matrix1[2][2] = {{1, 2}, {3, 4}};
-    int matrix2[2][2] = {{5, 6}, {7, 8}};
-    int result[2][2];
-    
+// --- 5. Function: Matrix Multiplication ---
+void matrixMultiplication(int mat1[2][2], int mat2[2][2], int res[2][2]) {
+    cout << "\n=== Matrix Multiplication ===" << endl;
     for (int i = 0; i < 2; i++) {
         for (int j = 0; j < 2; j++) {
-            int sum = 0; // ✅ Initialize sum
+            int sum = 0;
             for (int k = 0; k < 2; k++) {
-                sum += matrix1[i][k] * matrix2[k][j];
+                sum += mat1[i][k] * mat2[k][j];
             }
-            result[i][j] = sum;
+            res[i][j] = sum;
         }
     }
 
     // Print Result
     for (int i = 0; i < 2; i++) {
         for (int j = 0; j < 2; j++) {
-            cout << result[i][j] << " ";
+            cout << res[i][j] << " ";
         }
         cout << endl;
     }
+}
 
-    // --- 6. Break Statement Example ---
-    cout << endl << "=== Break Statement ===" << endl;
+// --- 6. Function: Break Statement Demo ---
+void breakDemo() {
+    cout << "\n=== Break Statement Demo ===" << endl;
     for (int i = 0; i < 5; i++) {
         for (int j = 0; j < 10; j++) {
             if (j == 5) {
-                break; // Inner loop break hoga, outer continue hoga
+                break; // Exit inner loop
             }
             cout << "i: " << i << ", j: " << j << endl;
         }
     }
+}
 
-    // --- 7. Sum of 2D Array ---
-    cout << endl << "=== Sum of 3x3 Array ===" << endl;
-    int array[3][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
-    int sum = 0; // ✅ Initialize sum
+// --- 7. Function: Sum of 2D Array ---
+int sumOf2DArray(int arr[3][3]) {
+    int totalSum = 0;
     for (int i = 0; i < 3; i++) {
         for (int j = 0; j < 3; j++) {
-            sum += array[i][j];
+            totalSum += arr[i][j];
         }
     }
-    cout << "Total Sum: " << sum << endl;
+    return totalSum;
+}
 
-    // --- 8. Placeholder Comments (Uncomment to add code) ---
-    // Check Prime, Even/Odd, Armstrong, GCD logic yahan add kar sakte hain.
+int main() {
+    // 1. Call Grid Iteration Functions
+    gridIterationFor();
+    gridIterationWhile();
+    gridIterationDoWhile();
+
+    // 2. Call Triangle Function (Pass size 5)
+    printTriangle(5);
+
+    // 3. Call Matrix Multiplication
+    int matrix1[2][2] = {{1, 2}, {3, 4}};
+    int matrix2[2][2] = {{5, 6}, {7, 8}};
+    int result[2][2];
+    matrixMultiplication(matrix1, matrix2, result);
+
+    // 4. Call Break Demo
+    breakDemo();
+
+    // 5. Call Sum Function
+    int array[3][3] = {{1, 2, 3}, {4, 5, 6}, {7, 8, 9}};
+    int total = sumOf2DArray(array);
+    cout << "\n=== Sum of 3x3 Array ===" << endl;
+    cout << "Total Sum: " << total << endl;
 
     return 0;
 }
