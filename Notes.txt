@@ -126,3 +126,11 @@ Increament / Decreament Operators -->
             h. O(n!)
 
       2. Space Complexity:-->Extra memory to use that program 
+
+
+
+
+
+      Array:- an array is a collections of similer type of data which are stored in a contiguious memory location.
+      initialization of an Array:- 
+      traversal:- 
