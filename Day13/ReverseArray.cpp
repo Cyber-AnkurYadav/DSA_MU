@@ -57,7 +57,7 @@ vector<int> sortaArray(vector<int> arr) {
             mid++;
         } else {
             swap(arr[mid], arr[high]);
-            high--;
+           high--;
         }
     }
     return arr;
