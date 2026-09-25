@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0724-find-pivot-index](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0724-find-pivot-index) |
 | [3524-find-x-value-of-array-i](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Math
@@ -24,4 +25,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0013-roman-to-integer) |
+## Prefix Sum
+|  |
+| ------- |
+| [0724-find-pivot-index](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0724-find-pivot-index) |
 <!---LeetCode Topics End-->
