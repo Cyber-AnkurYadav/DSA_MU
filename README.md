@@ -4,6 +4,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Array
 |  |
 | ------- |
+| [0014-longest-common-prefix](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0014-longest-common-prefix) |
 | [0724-find-pivot-index](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1672-richest-customer-wealth) |
@@ -28,6 +29,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0013-roman-to-integer) |
+| [0014-longest-common-prefix](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0014-longest-common-prefix) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -41,4 +43,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1920-build-array-from-permutation](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1920-build-array-from-permutation) |
+## Trie
+|  |
+| ------- |
+| [0014-longest-common-prefix](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0014-longest-common-prefix) |
 <!---LeetCode Topics End-->
