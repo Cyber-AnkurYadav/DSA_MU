@@ -5,6 +5,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0014-longest-common-prefix) |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0724-find-pivot-index](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1480-running-sum-of-1d-array) |
 | [1672-richest-customer-wealth](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1672-richest-customer-wealth) |
@@ -47,4 +48,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0014-longest-common-prefix](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0014-longest-common-prefix) |
+## Two Pointers
+|  |
+| ------- |
+| [0026-remove-duplicates-from-sorted-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0026-remove-duplicates-from-sorted-array) |
 <!---LeetCode Topics End-->
