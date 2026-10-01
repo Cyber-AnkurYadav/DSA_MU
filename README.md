@@ -20,6 +20,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0013-roman-to-integer) |
+| [0412-fizz-buzz](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0412-fizz-buzz) |
 | [3524-find-x-value-of-array-i](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
@@ -36,6 +37,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0014-longest-common-prefix) |
 | [0179-largest-number](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0179-largest-number) |
+| [0412-fizz-buzz](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0412-fizz-buzz) |
 ## Prefix Sum
 |  |
 | ------- |
@@ -48,6 +50,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Simulation
 |  |
 | ------- |
+| [0412-fizz-buzz](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0412-fizz-buzz) |
 | [1920-build-array-from-permutation](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1920-build-array-from-permutation) |
 ## Trie
 |  |
