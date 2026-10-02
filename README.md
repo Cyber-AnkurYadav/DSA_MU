@@ -19,6 +19,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Math
 |  |
 | ------- |
+| [0007-reverse-integer](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0412-fizz-buzz) |
 | [3524-find-x-value-of-array-i](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/3524-find-x-value-of-array-i) |
