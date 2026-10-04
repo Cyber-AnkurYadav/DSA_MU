@@ -12,6 +12,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0283-move-zeroes](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0724-find-pivot-index) |
 | [1480-running-sum-of-1d-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1480-running-sum-of-1d-array) |
+| [1512-number-of-good-pairs](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1672-richest-customer-wealth) |
 | [1920-build-array-from-permutation](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1920-build-array-from-permutation) |
 | [3524-find-x-value-of-array-i](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/3524-find-x-value-of-array-i) |
@@ -22,6 +23,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0412-fizz-buzz) |
+| [1512-number-of-good-pairs](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1512-number-of-good-pairs) |
 | [3524-find-x-value-of-array-i](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
 ## Dynamic Programming
@@ -32,6 +34,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0013-roman-to-integer](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0013-roman-to-integer) |
+| [1512-number-of-good-pairs](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1512-number-of-good-pairs) |
 ## String
 |  |
 | ------- |
@@ -73,4 +76,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0179-largest-number) |
+## Counting
+|  |
+| ------- |
+| [1512-number-of-good-pairs](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1512-number-of-good-pairs) |
 <!---LeetCode Topics End-->
