@@ -11,6 +11,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0179-largest-number](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0283-move-zeroes) |
 | [0724-find-pivot-index](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0724-find-pivot-index) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1480-running-sum-of-1d-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1480-running-sum-of-1d-array) |
 | [1512-number-of-good-pairs](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1512-number-of-good-pairs) |
 | [1672-richest-customer-wealth](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1672-richest-customer-wealth) |
@@ -23,6 +24,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0007-reverse-integer](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0007-reverse-integer) |
 | [0013-roman-to-integer](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0013-roman-to-integer) |
 | [0412-fizz-buzz](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0412-fizz-buzz) |
+| [1295-find-numbers-with-even-number-of-digits](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1512-number-of-good-pairs) |
 | [3524-find-x-value-of-array-i](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/3524-find-x-value-of-array-i) |
 | [3550-smallest-index-with-digit-sum-equal-to-index](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/3550-smallest-index-with-digit-sum-equal-to-index) |
