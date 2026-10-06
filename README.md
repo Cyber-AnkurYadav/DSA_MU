@@ -10,6 +10,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0088-merge-sorted-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0179-largest-number) |
 | [0283-move-zeroes](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0283-move-zeroes) |
+| [0414-third-maximum-number](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0414-third-maximum-number) |
 | [0485-max-consecutive-ones](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0485-max-consecutive-ones) |
 | [0724-find-pivot-index](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0724-find-pivot-index) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1295-find-numbers-with-even-number-of-digits) |
@@ -79,6 +80,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0088-merge-sorted-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0179-largest-number) |
+| [0414-third-maximum-number](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0414-third-maximum-number) |
 ## Counting
 |  |
 | ------- |
