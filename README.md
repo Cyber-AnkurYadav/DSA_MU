@@ -7,6 +7,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0014-longest-common-prefix](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0014-longest-common-prefix) |
 | [0026-remove-duplicates-from-sorted-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0026-remove-duplicates-from-sorted-array) |
 | [0027-remove-element](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0027-remove-element) |
+| [0053-maximum-subarray](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0053-maximum-subarray) |
 | [0088-merge-sorted-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0088-merge-sorted-array) |
 | [0179-largest-number](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0179-largest-number) |
 | [0189-rotate-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0189-rotate-array) |
@@ -35,6 +36,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 ## Dynamic Programming
 |  |
 | ------- |
+| [0053-maximum-subarray](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0053-maximum-subarray) |
 | [3524-find-x-value-of-array-i](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
@@ -88,4 +90,8 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [1512-number-of-good-pairs](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1512-number-of-good-pairs) |
+## Divide and Conquer
+|  |
+| ------- |
+| [0053-maximum-subarray](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0053-maximum-subarray) |
 <!---LeetCode Topics End-->
