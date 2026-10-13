@@ -52,6 +52,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0013-roman-to-integer](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0013-roman-to-integer) |
 | [0014-longest-common-prefix](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0014-longest-common-prefix) |
+| [0125-valid-palindrome](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0125-valid-palindrome) |
 | [0179-largest-number](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0179-largest-number) |
 | [0344-reverse-string](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0344-reverse-string) |
 | [0412-fizz-buzz](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0412-fizz-buzz) |
@@ -81,6 +82,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0027-remove-element](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0027-remove-element) |
 | [0075-sort-colors](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0075-sort-colors) |
 | [0088-merge-sorted-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0088-merge-sorted-array) |
+| [0125-valid-palindrome](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0125-valid-palindrome) |
 | [0189-rotate-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0189-rotate-array) |
 | [0283-move-zeroes](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0283-move-zeroes) |
 | [0344-reverse-string](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0344-reverse-string) |
