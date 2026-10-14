@@ -32,6 +32,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | [0013-roman-to-integer](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0013-roman-to-integer) |
 | [0189-rotate-array](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0189-rotate-array) |
 | [0412-fizz-buzz](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0412-fizz-buzz) |
+| [0509-fibonacci-number](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0509-fibonacci-number) |
 | [1295-find-numbers-with-even-number-of-digits](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1295-find-numbers-with-even-number-of-digits) |
 | [1512-number-of-good-pairs](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/1512-number-of-good-pairs) |
 | [3524-find-x-value-of-array-i](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/3524-find-x-value-of-array-i) |
@@ -41,6 +42,7 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 | ------- |
 | [0053-maximum-subarray](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0053-maximum-subarray) |
 | [0121-best-time-to-buy-and-sell-stock](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0121-best-time-to-buy-and-sell-stock) |
+| [0509-fibonacci-number](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0509-fibonacci-number) |
 | [3524-find-x-value-of-array-i](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/3524-find-x-value-of-array-i) |
 ## Hash Table
 |  |
@@ -113,4 +115,12 @@ A collection of LeetCode questions to ace the coding interview! - Created using 
 |  |
 | ------- |
 | [0075-sort-colors](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0075-sort-colors) |
+## Recursion
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0509-fibonacci-number) |
+## Memoization
+|  |
+| ------- |
+| [0509-fibonacci-number](https://github.com/Cyber-AnkurYadav/DSA_MU/tree/master/0509-fibonacci-number) |
 <!---LeetCode Topics End-->
